@@ -1,0 +1,10 @@
+EBCDIC, Extended Binary Coded Decimal Interchange Code
+CICS, Customer Information Control System
+DASD, Direct Access Storage Device
+IMS, Information Management System
+RACF, Resource Access Control Facility
+MIPS, Million Instructions Per Second
+MVS, Multiple Virtual Storage
+REXX, REstructured eXtended eXecutor
+zAAP, z Application Assist Processor
+BMC, Boulett Moores Cloer (founders)
