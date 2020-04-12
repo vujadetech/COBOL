@@ -23,6 +23,30 @@ AIX, Advanced Interactive eXecutive (IBM OS based on UNIX)
 SOAP, Simple Object Access Protocol
 MFaaS, MainFrame as a Service
 SDSF, System Display and Search Facility (or Spools Search and Displays Facility)
+BRMS, Business Rules Management System (or Software)
+ABAP, Advanced Business Application Programming
+ERP, Enterprise Resource Planning
+SAP, Systems Applications and Products (in Data Processin). Name of the software and the company.
 
+
+However encyclopedic the knowledge of a COBOL cowboy who comes <galloping in on his stallion /strikethrough> hobbling in with his walker, it won't be enough. 
+
+What about office culture? What's an apple-cheeked millenial* to do during an awkward pause with Ma and Pa Kettle at the water cooler? (Hint: Just smile and nod if one of them makes a Woody Herman reference.) 
+
+* The oldest millenials are now 40.
+
+What 
+
+What, they can hack into the FBI, CIA, they can remotely launch a NASA rocket over a dial-up modem, but 
+
+Can we hire one of these kids to do this for us? Give him a prison furlough if he's locked up for a previous hacking conviction. Hell, he might already be up for a COVID-related early release if he's a non-violent offender. And while were at it, 
+Where's a labor-wrecking robot when you need one? 
+All , 
+we can't get a freakin' COBOL mainframe in New Jersey to print out unemployment checks? Are you f***ing KIDDing me?!? 
+
+But I digress...
+
+Software engineering is a difficult subject. 
+We've got this all wrong, people. 
 
 

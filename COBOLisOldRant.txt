@@ -25,7 +25,7 @@ Klingon/spanish:
 
 What happens when little rocket man sends a bomb that takes out substantial infrastructure, including the ISP? Maybe power as well? 
 
-"A procedural language, Cobol is not perceived to be as agile as object-oriented languages for modern programming needs such as mobile apps and the Web." But that's an apples to oranges comparison since an employment office in NJ is a different beast. An unemployment check doesn't need to be retweeted by Kim Kardashian. And by the way, COBOL has been OO since 2002. Of course they used the word "perceived," which is an important distinction. If COBOL were a celebrity, it would have a Q-rating on par with Logan Paul during his "Suicide Forest" epoch. Perception is paramount, even in even in the thrill-a-minute world of corporate/government business logic for accountantcy report generation by mainframes. 
+"A procedural language, Cobol is not perceived to be as agile as object-oriented languages for modern programming needs such as mobile apps and the Web." But that's an apples to oranges comparison since an employment office in NJ is a different beast. An unemployment check doesn't need to be retweeted by Kim Kardashian. And by the way, COBOL has been OO since 2002. Of course they used the word "perceived," which is an important distinction. If COBOL were a celebrity, it would have a Q-rating on par with Logan Paul during his "Suicide Forest" epoch. Perception is paramount, even in the thrill-a-minute world of corporate/government business logic for accountantcy report generation by mainframes. 
 
 The language is easy to learn. That was the whole *point*, wasn't it? Grace Hopper was no fool. How long would it take a competent Java coder to become facile with COBOL? A few weeks? Maybe a few months? There's 9 million Java coders in the US according to Oracle, 10 million according to wikipedia. Around 5 million C++ coders as well. There could be some overlap with the Java figure, but take the lower bound of those figures, throw in a few million pythonistas, and conservatively we're well into double digit millions of potential COBOL coders out there just a few months down the line. 
 
@@ -57,13 +57,27 @@ We could conceivably hasten societal collapse because we weren't willing to lear
 
 Is there a lanuage on Earth right now, BASIC, Haskell, whatever, which can be used for a 
 
-"Do one thing, and do it well." COBOL does precisely that, and consequently, it's a victim of its own success." 
+"Do one thing, and do it well." COBOL does precisely that, and consequently, it's a victim of its own success. (Java may be "Write once, run anywhere," but COBOL is "write once, run forever". Not literally, of course. "Forever" just means "decades after the code's author has died.") One way to assure that there is plenty of dev talent is to use a language in which it's difficult to create software that isn't breaking all the time. 
+If the language being used facilitates writing brittle software, which means frequently bringing in devs to fix breaking products, they'll be getting lots of practice in using that language. (Is that the secret to Silicon Valley's success? If there's one cliche that stands out in Silicon Valley, it's "break stuff." Well that or "make the world a better place," ugh. [commencing eye roll sequence now https://www.youtube.com/watch?v=3xnZ6g14WwY])
 
 A: "So it sounds like 'didn't see this coming' woldn't be an apt phrase to describe this situation, is that right?"
-B: "Indeed. Well, unless by 'didn't see this coming' you mean 'had fewer than 4 decades to see this coming'
+B: "Indeed. Unless by 'didn't see this coming' you mean 'had fewer than 4 decades to see this coming'
 
 [cobol threatens global stability, https://www.techradar.com/news/an-old-programming-language-is-threatening-global-stability]
-It's strange to criticize a language in this circumstance. I've never heard anyone claim, "Donald Trump's obnoxious tweets are a failure of English." Although I'm a Trump fan, admittedly his tweets are sometimes a bit much, but it isn't fair to fault the English language itself. Or maybe this was Ms. Hopper's plan all along? Perhaps she was privately an anarchist? Ah, genius! What's a better way to avoid a 50s-era McCarthy hearing than to become a senior naval officer? She was a commie hiding in plain sight! Rear Admiral goes rogue, sows seeds of global unrest by unleashing an awful programming language, six decades in the making! Wait, that doesn't sound right. Of course it wasn't Hopper alone, but a committee drawn from members of CODASYL and the DOD [Real creators of COBOL, https://www.computer.org/csdl/magazine/so/2000/02/s2030/13rRUy2YLWb]. Maybe the real reason it's called COBOL is that it was created by a CABAL. That wasn't very clever, the global search and replace of "O" with "A" is transparently obvious. But seriously folks ...
+It's strange to criticize a language in this circumstance. I've never heard anyone claim, "Donald Trump's obnoxious tweets are a failure of English." Although I'm a Trump fan, admittedly his tweets are sometimes a bit much, but it isn't fair to fault the English language itself. Or maybe this was Ms. Hopper's plan all along? Perhaps she was privately a communist? Ah, genius! What's a better way to avoid a 50s-era McCarthy hearing than becoming a senior naval officer? She was a commie hiding in plain sight! Rear Admiral Grace Hopper goes rogue, sows seeds of global unrest by unleashing an awful programming language, six decades in the making! Wait, that doesn't sound right. Of course it wasn't Hopper alone that created COBOL, but a committee drawn from members of CODASYL and the DOD [Real creators of COBOL, https://www.computer.org/csdl/magazine/so/2000/02/s2030/13rRUy2YLWb]. Maybe the real reason it's called COBOL is that it was created by a CABAL. That wasn't very clever, the global search and replace of "O" with "A" is transparently obvious. But seriously folks ...
 
+If the COBOL haters are to be believed, a good programming language is one for which it's possible to throw out the source code decades ago, fail to train a sufficient number of devs to read and write source files, and yet somehow, the systems running said code continue to function perfectly. What language *could* do that? Such a language doesn't exist. To fault COBOL for failing to meet that standard is unfair. 
+
+Better for the weaknesses to be laid bare in an exercise, however unexpected and even disconcerting the details of that failure, than in the heat of the moment. 
+If Grace Hopper (and the rest of the DOD/CODASYL consortium) hadn't created this awful COBOL language in the first place, it wouldn't have been able to cause these problems. 
+There will be plenty of post mortems, but as bad as it was, it could have been worse. This gives us plenty to think about for decades to come. Let's not make the same mistake twice.
+
+There's not analogue of "measure twice, cut once." 
+
+California DMV project: 
+
+Whether it's fair it not, this can happen. Beta is better than VHS but fails nevertheless. 
+
+Swapping out COBOL for Java will be more difficult than replacing VHS with DVDs. 
 
 
