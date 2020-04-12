@@ -48,23 +48,21 @@ we can't get a freakin' COBOL mainframe in New Jersey to print unemployment chec
 But I digress...
 
 Software engineering is a difficult subject. 
-We've got this all wrong, people. 
+
 
 -
 
-
-
-Finally, the hard working people of the State of New Jersey itself. 
+Finally, the people of the State of New Jersey itself. 
 Don't teach that homeless guy how to build an app. Teach him COBOL! 
 And not just Jersey. 
 
-Teaching javascript to african immigrants? [clip of troll TED talk Sam Hyde?] Hell no, we're teaching COBOL to african immigrants! 
+Teaching javascript to african immigrants? [clip of troll TED talk Sam Hyde?] No, we're teaching _COBOL_ to African immigrants! 
 
-[CA DMV migrating from assembly]
+[CA DMV migrating from assembly] 
 Assembly language is per se difficult to write and maintain. COBOL isn't. 
-Avoiding COBOL is like avoiding brussel sprouts. Completely understandable, but a bad idea in the long run. Part of the reason we're in this mess is that we aren't willing to eat our vegetables. 
-[you lack discipline! Schwarzenegger https://www.youtube.com/watch?v=yGIj2KRB9Ys]
-Gov Schwarzenegger has a message for you COBOL fearing girly-men: You lack discipline!
+Avoiding COBOL is like avoiding brussel sprouts. Completely understandable, but a bad idea in the long run. Part of the reason we're in this mess is that we won't to eat our vegetables. 
+[you lack discipline! Schwarzenegger https://www.youtube.com/watch?v=yGIj2KRB9Ys] 
+Gov Schwarzenegger has a message for you COBOL fearing girly-men: You lack discipline! 
 
 
 

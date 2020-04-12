@@ -80,7 +80,27 @@ California DMV project:
 
 Whether it's fair it not, this can happen. Beta is better than VHS but fails nevertheless. 
 
-Innovation isn't necessary for the NJ ESC. In fact, it can even be counterproductive. [DOD using 8" floppy disks, quote about unhackable by the higher up] If it ain't broke, don't fix it. Don't revamp a nuclear guidance system just because the status quo doesn't "feel right." We're not aligning our chakras here, we're trying to keep from blowing ourselves off the map. 
+Innovation isn't necessary for the NJ ESC. In fact, it can even be counterproductive. [DOD using 8" floppy disks, quote about unhackable by the higher up] If it ain't broke, don't fix it. Don't revamp a nuclear guidance system just because the status quo doesn't "feel right." We're not aligning our chakras; we're trying to keep ourselves from getting blown off the map. 
+
+I'm not suggesting that it shouldn't be upgraded. I'm simply pointing out the sloppy thinking that often accompanies such considerations. Some labor under the delusion that it's a foregone conclusion when in fact it's nowhere near that. It may in fact be true, I don't know. Whether true or not, it's not obviously true. Changing a nuclear guidance system must be rigorously justified, no matter whether the current implementation is "ancient" or not. 
+
+There's . 
+Where would the DOD buy replacement 8" floppies? Drives break. Whether it's an SSD circa 2020 or a RAMAC 305 (imagine two refrigerators glued together, each weighing 1000 pounds) circa 1953, they die eventually, just like everything else in life. 
+If States like NY are having trouble getting ventilators, a much more common item circa 2020, it would have to be even more difficult finding 8" floppies at a reasonable price. Ebay has a 5 pack for $10, so since each olds 80KB and they're $2 each, that's 40KB/$1. That's very expensive. The DOD could 
+Typically job postings list the required amount of experience. Wouldn't it be nice if we could instead hire coders based on their psychic abilities? Who cares what you've done in the past? We need to know what chaos you might inadvertantly unleash in the future. "The ideal candidate will possess 3 decades of clairvoyance, preferably 5." 
+
+Maybe we could source the materials cheaply from China? But seriously folks...
+
+
+
+The man makes a point. 
+
+
+
+The goal isn't to eliminate chaos but to minimize it. 
+
+WHAT TO DO:
+IBM open sources old OSs (360, etc)
 
 
 
