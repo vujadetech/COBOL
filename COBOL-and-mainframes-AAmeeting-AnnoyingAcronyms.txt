@@ -31,22 +31,40 @@ SAP, Systems Applications and Products (in Data Processin). Name of the software
 
 However encyclopedic the knowledge of a COBOL cowboy who comes <galloping in on his stallion /strikethrough> hobbling in with his walker, it won't be enough. 
 
-What about office culture? What's an apple-cheeked millenial* to do during an awkward pause with Ma and Pa Kettle at the water cooler? (Hint: Just smile and nod if one of them makes a Woody Herman reference.) 
+What about office culture? What's an apple-cheeked millenial* to do during an awkward pause with Ma and Pa Kettle at the water cooler? (Just smile and nod if one of them makes a Woody Herman reference.) 
 
-* The oldest millenials are now 40.
+* The oldest millenials are now 40. 
 
 What 
 
 What, they can hack into the FBI, CIA, they can remotely launch a NASA rocket over a dial-up modem, but 
 
-Can we hire one of these kids to do this for us? Give him a prison furlough if he's locked up for a previous hacking conviction. Hell, he might already be up for a COVID-related early release if he's a non-violent offender. And while were at it, 
-Where's a labor-wrecking robot when you need one? 
+Can we hire one of these kids to do this for us? Give him a prison furlough if he's locked up for a previous hacking conviction. Hell, he might already be up for a COVID-related early release if he's a non-violent offender.  And while were at it, 
+Where's a labor-wreckin' robot when you need one? 
+You know, if we asked nicely. 
 All , 
-we can't get a freakin' COBOL mainframe in New Jersey to print out unemployment checks? Are you f***ing KIDDing me?!? 
+we can't get a freakin' COBOL mainframe in New Jersey to print unemployment checks? Are you f***in' KIDDing me?!? 
 
 But I digress...
 
 Software engineering is a difficult subject. 
 We've got this all wrong, people. 
+
+-
+
+
+
+Finally, the hard working people of the State of New Jersey itself. 
+Don't teach that homeless guy how to build an app. Teach him COBOL! 
+And not just Jersey. 
+
+Teaching javascript to african immigrants? [clip of troll TED talk Sam Hyde?] Hell no, we're teaching COBOL to african immigrants! 
+
+[CA DMV migrating from assembly]
+Assembly language is per se difficult to write and maintain. COBOL isn't. 
+Avoiding COBOL is like avoiding brussel sprouts. Completely understandable, but a bad idea in the long run. Part of the reason we're in this mess is that we aren't willing to eat our vegetables. 
+[you lack discipline! Schwarzenegger https://www.youtube.com/watch?v=yGIj2KRB9Ys]
+Gov Schwarzenegger has a message for you COBOL fearing girly-men: You lack discipline!
+
 
 

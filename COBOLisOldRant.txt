@@ -1,6 +1,6 @@
-Legacy Systems are a National Security Risk
+Lost in Translation: Legacy Systems are a National Security Risk
 
-COBOL sucks. In the interest of full disclosure, before I begin my tirade, I must divulge that to you. On second thought, no, let me be more precise: COBOL is *boring*. 
+COBOL sucks. In the interest of full disclosure, before I begin my tirade, I must divulge that. On second thought, no, let me be more precise: COBOL is *boring*. 
 
 COBOL is an ancient language. C language has been around since 1970. Lisp was 1958. Much of R is Fortran (1960?). And python is written in C. So the so-called modernity issue doesn't get off the ground. 
 
@@ -12,16 +12,12 @@ Virtualization was invented by Alan Turing in the 1920s.
 
 The new Tesla S has square wheels because round ones are *soooo* 5000 B.C. "I saw this *caveman* pull up in a car with *round wheels*, can you believe it? What a Luddite!" 
 
-Apply the same logic to the Medical Profession. Imagine someone saying, "Medicine is an archaic field, no one is studying it anymore. Young people dont get sick very often so they don't see the point of it. Let's shutter our medical schools. Wait, put a pin in that. Ok, here's a crazy idea: maybe we could ... *train more doctors*? I know, it's just crazy enough to work.
+Apply the same logic to the Medical Profession. Imagine someone saying, "Medicine is an archaic field, no one is studying it anymore. Young people dont get sick very often so they don't see the point of it. Let's shutter our medical schools. Wait, put a pin in that. Ok, here's a crazy idea: maybe we could ... *train more doctors*?" It's just crazy enough to work. 
 
 Euclidean algorithms? Fuhgeddaboutit! 
 
 [An image problem, https://www.computerworld.com/article/2554103/cobol--not-dead-yet.html “has been tainted with the brush of mainframes.”]
 "Pope Frances is a man of the people. If you don't believe me, just ask his publicist." I kid, I love Pope Frances. COBOL didn't have a good publicist. 
-
-Lisp: Mathematically beautiful; dare I say, poetic even. COBOL: Not so much. 
-2019
-Klingon/spanish: 
 
 What happens when little rocket man sends a bomb that takes out substantial infrastructure, including the ISP? Maybe power as well? 
 
@@ -40,6 +36,12 @@ Migrating COBOL to Java isn't a magic bullet. Is it possible
 [Java is becoming what COBOL was, https://www.javacodegeeks.com/2018/06/java-becoming-cobol.html]
 
 "Shakespeare's sonnets are being migrated from English to Spanish." If a poem is terrible in English, rewriting it in Spanish won't help.
+Translating a Shakespeare sonnet from English to Spanish, sure. Translating _Cien años de soledad_, likewise. But "migrating" it? That is to say, English is such an 
+
+Nietschze 
+Using that language will force your mind to *think differently*. 
+Lisp: Mathematically beautiful; dare I say, poetic even. COBOL: Not so much. 
+Klingon/spanish: 
 
 [Knuth on flavor of the month, MIXX etc]
 
@@ -52,7 +54,7 @@ It's not just inertia: https://www.networkworld.com/article/3148714/why-banks-lo
 Perhaps APIs could allow migration: https://www.networkworld.com/article/3097051/mainframes-and-the-api-economy.html.
 But if so, why hasn't it happened? And would it be better than just training people in COBOL? 
 
-"You've got 3 choices: teach COBOL, resign, or get locked up. Which would you prefer?" [kim davis] Imagine Prof Dijkstra's chagrin with *not* teaching COBOL being a criminal offence. 
+"You've got 3 choices: teach COBOL, resign, or get locked up [otis the town drunk, https://www.youtube.com/watch?v=eVJfXBCddbI]. Which would you prefer?" [kim davis] Imagine Prof Dijkstra's chagrin with *not* teaching COBOL being a criminal offence. 
 We could conceivably hasten societal collapse because we weren't willing to learn an easy, but uncool, programming language. 
 
 Is there a lanuage on Earth right now, BASIC, Haskell, whatever, which can be used for a 
@@ -70,7 +72,7 @@ If the COBOL haters are to be believed, a good programming language is one for w
 
 Better for the weaknesses to be laid bare in an exercise, however unexpected and even disconcerting the details of that failure, than in the heat of the moment. 
 If Grace Hopper (and the rest of the DOD/CODASYL consortium) hadn't created this awful COBOL language in the first place, it wouldn't have been able to cause these problems. 
-There will be plenty of post mortems, but as bad as it was, it could have been worse. This gives us plenty to think about for decades to come. Let's not make the same mistake twice.
+There will be plenty of post mortems, but as bad as it was, it could have been worse. This gives us plenty to think about for decades to come. Let's not make the same mistake twice. 
 
 There's not analogue of "measure twice, cut once." 
 
@@ -78,6 +80,7 @@ California DMV project:
 
 Whether it's fair it not, this can happen. Beta is better than VHS but fails nevertheless. 
 
-Swapping out COBOL for Java will be more difficult than replacing VHS with DVDs. 
+Innovation isn't necessary for the NJ ESC. In fact, it can even be counterproductive. [DOD using 8" floppy disks, quote about unhackable by the higher up] If it ain't broke, don't fix it. Don't revamp a nuclear guidance system just because the status quo doesn't "feel right." We're not aligning our chakras here, we're trying to keep from blowing ourselves off the map. 
+
 
 
