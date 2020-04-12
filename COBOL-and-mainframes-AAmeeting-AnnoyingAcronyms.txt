@@ -4,7 +4,25 @@ DASD, Direct Access Storage Device
 IMS, Information Management System
 RACF, Resource Access Control Facility
 MIPS, Million Instructions Per Second
-MVS, Multiple Virtual Storage
 REXX, REstructured eXtended eXecutor
 zAAP, z Application Assist Processor
 BMC, Boulett Moores Cloer (founders)
+CLIST, Command List language
+TSO, Time Sharing Option
+ISPF, Interactive System Productivity Facility
+MVS, Multiple Virtual Storage
+MFT, Multitasking with a Fixed number of Tasks
+MVT, Multitasking with a Variable number of Tasks
+VSAM, Virtual Storage Access Method (an IBM DASD file storage access method)
+IDCAMS, Access Method Services (creates and maintains VSAM data sets)
+BRMS, Business Rule Management System
+TBTF, Too Big Too Fail
+SOA, Service-Oriented Architecture
+RPG, Report Program Generator (from IBM)
+AIX, Advanced Interactive eXecutive (IBM OS based on UNIX)
+SOAP, Simple Object Access Protocol
+MFaaS, MainFrame as a Service
+SDSF, System Display and Search Facility (or Spools Search and Displays Facility)
+
+
+

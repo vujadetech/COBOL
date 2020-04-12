@@ -1,0 +1,69 @@
+Legacy Systems are a National Security Risk
+
+COBOL sucks. In the interest of full disclosure, before I begin my tirade, I must divulge that to you. On second thought, no, let me be more precise: COBOL is *boring*. 
+
+COBOL is an ancient language. C language has been around since 1970. Lisp was 1958. Much of R is Fortran (1960?). And python is written in C. So the so-called modernity issue doesn't get off the ground. 
+
+ Java is from 1990, so it's "new." 
+Nevertheless, Java can be justified for the same reason as COBOL: if it ain't broke, don't fix it.
+The basis for functional programming, the Curry-Howard correspondence, was discovered in 1969 based on Curry's work going back to 1934. 
+
+Virtualization was invented by Alan Turing in the 1920s. 
+
+The new Tesla S has square wheels because round ones are *soooo* 5000 B.C. "I saw this *caveman* pull up in a car with *round wheels*, can you believe it? What a Luddite!" 
+
+Apply the same logic to the Medical Profession. Imagine someone saying, "Medicine is an archaic field, no one is studying it anymore. Young people dont get sick very often so they don't see the point of it. Let's shutter our medical schools. Wait, put a pin in that. Ok, here's a crazy idea: maybe we could ... *train more doctors*? I know, it's just crazy enough to work.
+
+Euclidean algorithms? Fuhgeddaboutit! 
+
+[An image problem, https://www.computerworld.com/article/2554103/cobol--not-dead-yet.html “has been tainted with the brush of mainframes.”]
+"Pope Frances is a man of the people. If you don't believe me, just ask his publicist." I kid, I love Pope Frances. COBOL didn't have a good publicist. 
+
+Lisp: Mathematically beautiful; dare I say, poetic even. COBOL: Not so much. 
+2019
+Klingon/spanish: 
+
+What happens when little rocket man sends a bomb that takes out substantial infrastructure, including the ISP? Maybe power as well? 
+
+"A procedural language, Cobol is not perceived to be as agile as object-oriented languages for modern programming needs such as mobile apps and the Web." But that's an apples to oranges comparison since an employment office in NJ is a different beast. An unemployment check doesn't need to be retweeted by Kim Kardashian. And by the way, COBOL has been OO since 2002. Of course they used the word "perceived," which is an important distinction. If COBOL were a celebrity, it would have a Q-rating on par with Logan Paul during his "Suicide Forest" epoch. Perception is paramount, even in even in the thrill-a-minute world of corporate/government business logic for accountantcy report generation by mainframes. 
+
+The language is easy to learn. That was the whole *point*, wasn't it? Grace Hopper was no fool. How long would it take a competent Java coder to become facile with COBOL? A few weeks? Maybe a few months? There's 9 million Java coders in the US according to Oracle, 10 million according to wikipedia. Around 5 million C++ coders as well. There could be some overlap with the Java figure, but take the lower bound of those figures, throw in a few million pythonistas, and conservatively we're well into double digit millions of potential COBOL coders out there just a few months down the line. 
+
+[plumber story at elon] "Is that shit on that toilet?" "Hell, I'll pull that out with my teeth." Say what you want, the man got things done. 
+
+We can have a bunch of snowflakes whining about the fact that COBOL isn't cool.
+[Ford quote, "don't offer a complaint, offer a remedy"]
+
+Bad software engineering is possible in any language. 
+
+Migrating COBOL to Java isn't a magic bullet. Is it possible 
+[Java is becoming what COBOL was, https://www.javacodegeeks.com/2018/06/java-becoming-cobol.html]
+
+"Shakespeare's sonnets are being migrated from English to Spanish." If a poem is terrible in English, rewriting it in Spanish won't help.
+
+[Knuth on flavor of the month, MIXX etc]
+
+"I can't believe we need Cobalt [sic] programmers." But does that point out a weakness of the language, or rather a weakness in HR staffing and training? As bad as the situation was, it could have been much worse. This was just the canary in the coalmine. 
+
+Pascal suffered a similar fate. Pascal is a better educational language than C/C++, but on your resume, no one cared about Pascal. Admittedly it suffered weaknesses for production environments. [Pascal is not my favorite, https://www.lysator.liu.se/c/bwk-on-pascal.html] They wanted to see C/C++. Much like the hype around lambda calculus today, then the hype was around OO. The difference between Pascal and COBOL is that Pascal didn't wind up being inexerobly entrenched in corporate/government operations to the extent COBOL has.  
+
+It's not just inertia: https://www.networkworld.com/article/3148714/why-banks-love-mainframes.html.
+
+Perhaps APIs could allow migration: https://www.networkworld.com/article/3097051/mainframes-and-the-api-economy.html.
+But if so, why hasn't it happened? And would it be better than just training people in COBOL? 
+
+"You've got 3 choices: teach COBOL, resign, or get locked up. Which would you prefer?" [kim davis] Imagine Prof Dijkstra's chagrin with *not* teaching COBOL being a criminal offence. 
+We could conceivably hasten societal collapse because we weren't willing to learn an easy, but uncool, programming language. 
+
+Is there a lanuage on Earth right now, BASIC, Haskell, whatever, which can be used for a 
+
+"Do one thing, and do it well." COBOL does precisely that, and consequently, it's a victim of its own success." 
+
+A: "So it sounds like 'didn't see this coming' woldn't be an apt phrase to describe this situation, is that right?"
+B: "Indeed. Well, unless by 'didn't see this coming' you mean 'had fewer than 4 decades to see this coming'
+
+[cobol threatens global stability, https://www.techradar.com/news/an-old-programming-language-is-threatening-global-stability]
+It's strange to criticize a language in this circumstance. I've never heard anyone claim, "Donald Trump's obnoxious tweets are a failure of English." Although I'm a Trump fan, admittedly his tweets are sometimes a bit much, but it isn't fair to fault the English language itself. Or maybe this was Ms. Hopper's plan all along? Perhaps she was privately an anarchist? Ah, genius! What's a better way to avoid a 50s-era McCarthy hearing than to become a senior naval officer? She was a commie hiding in plain sight! Rear Admiral goes rogue, sows seeds of global unrest by unleashing an awful programming language, six decades in the making! Wait, that doesn't sound right. Of course it wasn't Hopper alone, but a committee drawn from members of CODASYL and the DOD [Real creators of COBOL, https://www.computer.org/csdl/magazine/so/2000/02/s2030/13rRUy2YLWb]. Maybe the real reason it's called COBOL is that it was created by a CABAL. That wasn't very clever, the global search and replace of "O" with "A" is transparently obvious. But seriously folks ...
+
+
+
