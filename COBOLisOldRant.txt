@@ -1,4 +1,6 @@
-Lost in Translation: Legacy Systems are a National Security Risk
+IT's Lost in Translation; Legacy Systems are a National Security Risk or: How Phil Murphy spent a week in New Jersey last night
+
+Software Engineering is a Difficult Subject
 
 COBOL sucks. In the interest of full disclosure, before I begin my tirade, I must divulge that. On second thought, no, let me be more precise: COBOL is *boring*. 
 
@@ -23,7 +25,7 @@ What happens when little rocket man sends a bomb that takes out substantial infr
 
 "A procedural language, Cobol is not perceived to be as agile as object-oriented languages for modern programming needs such as mobile apps and the Web." But that's an apples to oranges comparison since an employment office in NJ is a different beast. An unemployment check doesn't need to be retweeted by Kim Kardashian. And by the way, COBOL has been OO since 2002. Of course they used the word "perceived," which is an important distinction. If COBOL were a celebrity, it would have a Q-rating on par with Logan Paul during his "Suicide Forest" epoch. Perception is paramount, even in the thrill-a-minute world of corporate/government business logic for accountantcy report generation by mainframes. 
 
-The language is easy to learn. That was the whole *point*, wasn't it? Grace Hopper was no fool. How long would it take a competent Java coder to become facile with COBOL? A few weeks? Maybe a few months? There's 9 million Java coders in the US according to Oracle, 10 million according to wikipedia. Around 5 million C++ coders as well. There could be some overlap with the Java figure, but take the lower bound of those figures, throw in a few million pythonistas, and conservatively we're well into double digit millions of potential COBOL coders out there just a few months down the line. 
+The language is easy to learn. That was the whole *point*, wasn't it? I'm facepalming over here[tinyurl.com/cobolfacepalm]. Grace Hopper was no fool. How long would it take a competent Java coder to become facile with COBOL? A few weeks? Maybe a few months? There's 9 million Java coders in the US according to Oracle, 10 million according to wikipedia. Around 5 million C++ coders as well. There could be some overlap with the Java figure, but take the lower bound of those figures, throw in a few million pythonistas, and conservatively we're well into double digit millions of potential COBOL coders out there just a few months down the line. 
 
 [plumber story at elon] "Is that shit on that toilet?" "Hell, I'll pull that out with my teeth." Say what you want, the man got things done. 
 
@@ -68,7 +70,7 @@ B: "Indeed. Unless by 'didn't see this coming' you mean 'had fewer than 4 decade
 [cobol threatens global stability, https://www.techradar.com/news/an-old-programming-language-is-threatening-global-stability]
 It's strange to criticize a language in this circumstance. I've never heard anyone claim, "Donald Trump's obnoxious tweets are a failure of English." Although I'm a Trump fan, admittedly his tweets are sometimes a bit much, but it isn't fair to fault the English language itself. Or maybe this was Ms. Hopper's plan all along? Perhaps she was privately a communist? Ah, genius! What's a better way to avoid a 50s-era McCarthy hearing than becoming a senior naval officer? She was a commie hiding in plain sight! Rear Admiral Grace Hopper goes rogue, sows seeds of global unrest by unleashing an awful programming language, six decades in the making! Wait, that doesn't sound right. Of course it wasn't Hopper alone that created COBOL, but a committee drawn from members of CODASYL and the DOD [Real creators of COBOL, https://www.computer.org/csdl/magazine/so/2000/02/s2030/13rRUy2YLWb]. Maybe the real reason it's called COBOL is that it was created by a CABAL. That wasn't very clever, the global search and replace of "O" with "A" is transparently obvious. But seriously folks ...
 
-If the COBOL haters are to be believed, a good programming language is one for which it's possible to throw out the source code decades ago, fail to train a sufficient number of devs to read and write source files, and yet somehow, the systems running said code continue to function perfectly. What language *could* do that? Such a language doesn't exist. To fault COBOL for failing to meet that standard is unfair. 
+If the COBOL haters are to be believed, a good programming language is one for which it's possible to throw out the source code decades ago, fail to train a sufficient number of devs to read and write source files, and yet somehow, the systems running said code continue to function perfectly. What language *could* do that? Such a language doesn't exist.  To fault COBOL for failing to meet that standard is unfair. 
 
 Better for the weaknesses to be laid bare in an exercise, however unexpected and even disconcerting the details of that failure, than in the heat of the moment. 
 If Grace Hopper (and the rest of the DOD/CODASYL consortium) hadn't created this awful COBOL language in the first place, it wouldn't have been able to cause these problems. 
@@ -82,25 +84,39 @@ Whether it's fair it not, this can happen. Beta is better than VHS but fails nev
 
 Innovation isn't necessary for the NJ ESC. In fact, it can even be counterproductive. [DOD using 8" floppy disks, quote about unhackable by the higher up] If it ain't broke, don't fix it. Don't revamp a nuclear guidance system just because the status quo doesn't "feel right." We're not aligning our chakras; we're trying to keep ourselves from getting blown off the map. 
 
-I'm not suggesting that it shouldn't be upgraded. I'm simply pointing out the sloppy thinking that often accompanies such considerations. Some labor under the delusion that it's a foregone conclusion when in fact it's nowhere near that. It may in fact be true, I don't know. Whether true or not, it's not obviously true. Changing a nuclear guidance system must be rigorously justified, no matter whether the current implementation is "ancient" or not. 
+I'm not suggesting that it shouldn't be upgraded. I'm simply pointing out the sloppy thinking that often accompanies such conversations. Some labor under the delusion that it's a foregone conclusion when in fact it's nowhere near that. It may in fact be true, I don't know. Whether true or not, it's not obviously true. Changing a nuclear guidance system must be rigorously justified, no matter whether the current implementation is "ancient" or not. 
 
 There's . 
 Where would the DOD buy replacement 8" floppies? Drives break. Whether it's an SSD circa 2020 or a RAMAC 305 (imagine two refrigerators glued together, each weighing 1000 pounds) circa 1953, they die eventually, just like everything else in life. 
 If States like NY are having trouble getting ventilators, a much more common item circa 2020, it would have to be even more difficult finding 8" floppies at a reasonable price. Ebay has a 5 pack for $10, so since each olds 80KB and they're $2 each, that's 40KB/$1. That's very expensive. The DOD could 
 Typically job postings list the required amount of experience. Wouldn't it be nice if we could instead hire coders based on their psychic abilities? Who cares what you've done in the past? We need to know what chaos you might inadvertantly unleash in the future. "The ideal candidate will possess 3 decades of clairvoyance, preferably 5." 
-
 Maybe we could source the materials cheaply from China? But seriously folks...
+Advantages: if he suspects a DOD employee might be rogue and later discover purchases of 8" floppies off ebay, that would be a red flag. That reminds me, I've been watching "The Americans"
+Apparently when Gorbachev was vetting Russian citizens for KGB recruitment as double agents to infiltrate the U.S. government, he'd open with "Comrade, do you love mother Russia?" If that failed he'd follow up with, "Comrade, do you like to swing?" But seriously, folks...
 
 
+8" floppies aren't hackable. Not entirely true, but the man makes a point. 
 
-The man makes a point. 
-
-
+Wouldn't that be nice? Sure, but don't hold your breath. 
 
 The goal isn't to eliminate chaos but to minimize it. 
 
+Why hasn't a hacker fixed one of these systems? Because *they don't know how to*. Apparently software engineering, particularly the large scale architecture that characterizes government and corporate enterprise systems, is harder than hacking. Skeptical? Please, prove me wrong. It's too unwieldy. dog the bounty hunt but for cobol/main
+dont do it twice [tbtf tweet]
+they were holding the global hostge
+its just hazard
+"Failure to plan on your part doesn't constitute an emergency on my part." Playing devil's advocate, fixing that system wouldn't have required such a herculean effort had it been designed properly in the first place. Even more importantly, had it been properly (re)designed, documented and tested at each refactoring. Spaghetti code happens. Life's a bitch and then you die. 
+There's no cure for cancer, and there's no cure for spaghetti code. Life sucks. But acknowledging that isn't the same as being defeated by it. 
+
+volunteer: pinstriping "lets never speak of this again"
+First prize is the Key to New Jersey. Second prize is two keys. But seriously folks ... I kid, I love Jersey. 
+
 WHAT TO DO:
 IBM open sources old OSs (360, etc)
+
+Training legions of new COBOL programmers won't be a panacea. Nevertheless, it would serve an integral part of a larger effort. But even if it didn't, it would be useful anyway. 
+
+You ever see one of those news stories about a teenager who uses his parents dial-up modem to hack into a NYSE mainframe, refactor a few thousand COBOL modules to remove spaghetti code dependencies, run regression tests to ensure that the refactored modules haven't introduced any new bugs, document like a boss, and then leave? I haven't either. Because it's never happened. And unfortunately, it most likely never will. Because software engineering is a difficult subject.
 
 
 

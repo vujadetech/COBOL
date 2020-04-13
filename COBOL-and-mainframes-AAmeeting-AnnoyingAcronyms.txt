@@ -1,3 +1,21 @@
+me@me-hpbig:~/mvs38j-VolkerTurnkeyMVS$ ./startmvs 
+./startmvs: line 2: PATH: command not found
+
+Do not IPL until you have started all the clients
+needed to successfully start MVS:
+  a)  A standard telnet client to this host on port 3270
+  b)  Two tn3270 clients to this host on port 3270 as consoles
+  c)  Additional tn3270 clients as TSO terminals
+  
+  press the ENTER key to continue hercules startup
+
+
+OLTP, OnLine Transaction (in both senses, atomicity or economic exchange) Processing
+runbook, a compilation of routine procedures and operations that the sysadm/operator carries out.
+TPF, Transaction Processing Facility (originally ACP Airline Control Program)
+CKD, Count Key Data
+CP, Control Program
+CMS, Conversational Monitor System (or Cambridge Monitor System) which is a simple single user OS
 EBCDIC, Extended Binary Coded Decimal Interchange Code
 CICS, Customer Information Control System
 DASD, Direct Access Storage Device
@@ -27,7 +45,17 @@ BRMS, Business Rules Management System (or Software)
 ABAP, Advanced Business Application Programming
 ERP, Enterprise Resource Planning
 SAP, Systems Applications and Products (in Data Processin). Name of the software and the company.
-
+ADCD, Application Development CD (for members of IBM PartnerWorld Devs)
+ESCON, Enterprise Systems CONnection (IBM data connection for mainframe channels)
+BCP, Base Control Program (in essence MVS)
+NDM, Network Data Mover
+JIRA, Issue tracking product (shortening of Gojira, Godzilla in Japanese)
+ALM, Application Lifecycle Management
+PTF, Program Temporary Fix
+APAR, Authorized Program Analysis Report
+SPOOL, Simultaneous Peripheral Operations OnLine
+LPAR, Logical PARtition
+CPC, Central Processor Complex (houses the CPUs)
 
 However encyclopedic the knowledge of a COBOL cowboy who comes <galloping in on his stallion /strikethrough> hobbling in with his walker, it won't be enough. 
 
