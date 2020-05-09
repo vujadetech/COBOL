@@ -1,6 +1,17 @@
-IT's Lost in Translation; Legacy Systems are a National Security Risk or: How Phil Murphy spent a week in New Jersey last night
-
+IT's Lost in Translation; Legacy Systems are a National Security Risk or: Why Phil Murphy had a rough week in New Jersey last night
+A modern legacy
 Software Engineering is a Difficult Subject
+
+It's rough in NJ, but it's even worse in the Rocky Mountains because there's a lot of mainframes in COBOLorado. 
+
+lite bulb engineer/space pen
+
+Legacy: IT is the only field where that's an insult. 
+- Some universities use legacy as part of the criteria. George W. Bush's admission to Yale was at least in part determined by the fact that his father not only graduated from Yale but was also one of their star athletes. 
+
+Although it seems very science-y, computer science is not, in fact, science. Yet somehow, Grace Hopper has blinded me with science nevertheless [https://www.facebook.com/hank.igoe.54/posts/236723447705607].
+Software engreering is a branch of engineering, or at least one should hope, given its name. 
+Maybe physics is broken? [Tacoma Narrows Bridge, https://www.youtube.com/watch?v=j-zczJXSxnw] The Tacoma Narrows debacle reminds me of the looming legacy debacle. 
 
 COBOL sucks. In the interest of full disclosure, before I begin my tirade, I must divulge that. On second thought, no, let me be more precise: COBOL is *boring*. 
 
@@ -82,7 +93,7 @@ California DMV project:
 
 Whether it's fair it not, this can happen. Beta is better than VHS but fails nevertheless. 
 
-Innovation isn't necessary for the NJ ESC. In fact, it can even be counterproductive. [DOD using 8" floppy disks, quote about unhackable by the higher up] If it ain't broke, don't fix it. Don't revamp a nuclear guidance system just because the status quo doesn't "feel right." We're not aligning our chakras; we're trying to keep ourselves from getting blown off the map. 
+Innovation isn't necessary for the NJ ESC. In fact, it can even be counterproductive. [DOD using 8" floppy disks, quote about unhackable by the higher up] If it ain't broke, don't fix it. Don't revamp a nuclear guidance system just because the status quo doesn't "feel right." [over the top sarcasm guy/Dinesh D'Souza screaming snowflake]: "In my Gender Studies degree, the professors said you can't use an 8" floppy drive for a nuclear guidance system because it doesn't give off *good vibes*."  We're not aligning our chakras; we're trying to keep ourselves from getting blown off the map. 
 
 I'm not suggesting that it shouldn't be upgraded. I'm simply pointing out the sloppy thinking that often accompanies such conversations. Some labor under the delusion that it's a foregone conclusion when in fact it's nowhere near that. It may in fact be true, I don't know. Whether true or not, it's not obviously true. Changing a nuclear guidance system must be rigorously justified, no matter whether the current implementation is "ancient" or not. 
 

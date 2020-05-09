@@ -1,16 +1,160 @@
-me@me-hpbig:~/mvs38j-VolkerTurnkeyMVS$ ./startmvs 
-./startmvs: line 2: PATH: command not found
 
-Do not IPL until you have started all the clients
-needed to successfully start MVS:
-  a)  A standard telnet client to this host on port 3270
-  b)  Two tn3270 clients to this host on port 3270 as consoles
-  c)  Additional tn3270 clients as TSO terminals
-  
-  press the ENTER key to continue hercules startup
+findAll = filter, collect = map, inject = fold
+
+[SCHEMA: TLA / or whatever, DEFN , CATEGORY (eg, CourseraMainframes, DESIGNPATTERNS, Stoopid, OOP), NOTES]
+
+:please clap:, what Jeb Bush says
 
 
-OLTP, OnLine Transaction (in both senses, atomicity or economic exchange) Processing
+
+SOLID, Single-responsibility Open-closed Liskov substitution Interface segregation Dependency inversion, DESIGNPATTERNS
+VMT, Virtual Method Table, OOP
+API Encapsulation, Abstraction Polymorphism Inheritance Encapsulation (the 4 pillars of OOP), DESIGNPATTERNS, not a real acronym
+SNA, Systems Network Architecture
+RMF, Resource Measurement Facility, CourseraMainframes
+DFSMS, Data Facility Storage Management Service, CourseraMainframes
+SMP/E, System Modification Program Extended, CourseraMainframes, IBM
+JES, Job Entry Subsystem, CourseraMainframes
+JCL, Job Control Language, CourseraMainframes, Mr T says "I need work!"
+zVM, z Virtual Machine, CourseraMainframes, , current version of IBM's family of VM OSs
+zVSE, Virtual Storage Extended (IBM OS), CourseraMainframes
+zTPF, Transaction Processing Facility, CourseraMainframes
+KVM, Kernel-based Virtual Machine, CourseraMainframes, an open source hypervisor
+NARA, Not A Real Acronym, Stoopid
+PSFCRM, Process Security File Comm Resource Memory, CourseraMainframes, things that are managed by OS (not a real acronym)
+NRRWT, New Ready Running Waiting Terminated (OS processor states), CourseraMainframes, not a real acronym
+GRS, Global Resource Serialization, CourseraMainframes
+CDS, Coupled Data Set, CourseraMainframes
+XCF, Cross Coupling Facility
+LIC, Licensed Internal Code, CourseraMainframes
+HMC, Hardware Management Console, CourseraMainframes
+SE, Support Element, CourseraMainframes
+zAWARE, z Advanced Workload Analysis Reporter, CourseraMainframes
+VFM, Virtual Flash Memory, CourseraMainframes
+TMA!, Too Many Acronyms!, Stoopid, mainframe technology has entirely too many acronyms
+DCA inverter, ??? , CourseraMainframes, provide the specific power
+PCIe or PCIExpress, Peripheral Component Interconnect Express, CourseraMainframes
+CPC, Central Processor Complex (houses the CPUs), CourseraMainframes
+IODF, I/O Definition File, CourseraMainframes, defines one or more valid IO configs
+Parallel Sysplex, a cluster of IBM mainframes acting together as a single system image with z/OS, CourseraMainframes
+zIIP, system Z Integrated Information Processor, CourseraMainframes
+SAP, System Assist Processor, CourseraMainframes
+IFL, Integrated Facility for Linux, CourseraMainframes
+CP, Central Processor, CourseraMainframes, can also mean "Control Program"
+LPAR, Logical PARtition, CourseraMainframes
+address space, a map of storage that is made available to users and applications, CourseraMainframes
+frame, what memory occupies when it's in central storage on REAL memory, CourseraMainframes
+page, a block of virtual storage (of memory), CourseraMainframes
+slot, a block of auxilary storage (of memory), CourseraMainframes
+OWC, Other World Computing
+WAI-ARIA, Web Accessibility Initiative – Accessible Rich Internet Applications
+JFC, Java Foundation Classes
+MOA, Massive Online Analysis
+BBA, Bachelor Business Administration
+TPOT, Tree-based Pipeline Optimization Tool
+DBC, Design By Contract
+ABFPS, Creational Design Patterns, DESIGNPATTERNS, Abraham Became First President of States
+MMIICCSSOTV, Behavioral Design Patterns, DESIGNPATTERNS, 2 MICS on TV
+ABCDFFP, Structural Design Patterns, DESIGNPATTERNS, Always Be Closing Dumps From Fun People 
+EDW, Enterprise Data Warehouse
+ODS, Operational Data Store
+BI, Business Intelligence
+ETL, Extract Transform Load (data cleaning)
+CKAN, Comprehensive Knowledge Archive Network
+EDA, Exploratory Data Analysis
+WebGL, Web Graphics Library
+D3.js, Data-Driven Documents Javascript 
+VOM model, Variable-Order Markov model
+EDT, Event Dispatch Thread (Java)
+MOA, Massive Online Analysis (for example data mining sketches cf Sedgewick Java book)
+MOF, Meta-Object Family
+OMG, Object Management Group
+JFC, Java Foundation Classes (not to be confused with KFC which is Kentucky Fried Chicken)
+SDE, Software Development Engineer
+OCL, Object Constraint Language
+OAOO, Once And Only Once (which was the initial title of Lionel richies song once twice 3 times a lady)
+commodity hardware, off-the-shelf hardware is a computer device or IT component that is relatively inexpensive widely available and basically interchangeable with other hardware of its type (cf mainframes)
+WORA, Write Once Run Anywhere
+DSL, Domain-Specific Language
+JSP JSTL, JavaServer Pages Java Standad Tag Library
+GFC, Global Financial Collapse
+ISA, Instruction Set Architecture
+software design (IBM defn), compiler; apps; firmware; OS (CAFO), CourseraMainframes
+hardware design (IBM defn), physical design; circuit design; digital design; datapath and control; Instruction Set Procedure and IO system, CourseraMainframes
+ATDD, Acceptance Test-Driven Development
+UUT, Unit Under Test
+MDA, Model-Driven Architecture
+OCA, Oracle Certified Associate
+JPQL, Java Persistence Query Language
+JDO, Java Data Objects
+JPA, Java Persistence API
+POJO/POGO, Plain Old Java Object/Plain Old Groovy Object
+BDD, Business-Driven Development/Behavior-Driven Development
+CISO, Chief Info Sec Officer
+LRU/MRU, Least Recently Used/Most Recently Used
+NRA, National Recovery Administration
+SRE, Site Reliability Engineering
+IPC, Inter-Process Communication
+GIS, Geographic Information System
+DOM, Document Object Model
+XOM, dynamic eXecution Object Model can be generated from native Java classes or XML data
+SCM, Software Configuration Management/Source Code Management
+RUP, Rational Unified Process
+sAOP, Aspect Oriented Programming
+EAS, Enterprise Application Software
+WAR, Web Application Resource/Web application ARchive for distributing Java files
+CVS, Concurrent Versioning System revision control system
+OQL, Object Query Language is a query language for OO databases
+POM, Project Object Model
+GIL, Global Interpreter Lock is a mechanism used in computer-language interpreters to synchronize the execution of threads so that only one native thread can execute at a time
+WPA, Work Progress Administration renamed as the Work Projects Administration in 1939
+Java NIO, Java New IO
+McLuhanesque, suggestive of theories by Marshall McLuhan e.g. the medium is the message
+upcasting, taking an object ref and treating it as a ref to its base type
+polymorphism, also called dynamic binding or late binding or run-time binding (Cf Thinking in Java book)
+J2EE, Java 2 platform, Enterprise Edition (aka Java Enterprise Edition, or Java EE)
+MPS, Master Production Schedule
+DRP, Distribution Resource Planning/Distribution Requirements Planning
+MRP, Manufacturing Resource Planning
+C2C, Customer 2 Customer/Corporation To Corporation
+CBO, Congressional Budget Office/Community-Based Organization
+SEM, Social Enterprise Management (e.g., IBM Curam)
+SPI, (Java) Service Provider Interface eg javax.sound.sampled.spi
+IR, International Relations/Investor Relations
+DACA, Deferred Action for Childhood Arrivals
+TARP, Troubled Asset Relief Program
+PPP, Paycheck Protection Program/Purchasing Power Parity
+CFIUS, Committe on Foreign Investment in the United States
+NGO, Non-Governmental Organization
+JRIO, Java Record I/O
+QE, Quantitative Easing is a monetary policy whereby a central bank buys predetermined amounts of government bonds or other financial assets in order to add money directly into the economy.
+ATS, Application Tracking System (e.g., for resumes)
+ISIS, Islamic State of Iraq and Syria/Islamic State of Iraq and al-Sham (no relation to the ShamWow, https://www.youtube.com/watch?v=1Q39yGLPkMY&t=31s)
+ISIL, Islamic State of Iraq and the Levant
+BOC, Board Of Certification
+GAO, Government Accountability Office
+ECC, ERP Central Component (as in SAP ECC)
+UCB, Unit Control Block
+FICON, FIber CONnection (like an ESCON)
+LCSS, Logical Channel SubSystem
+IFB, InFiniBand
+IOCDS, I/O Control Data Set (I/O control layer file that translates physical I/O addresses to device nums)
+HSA, Hardware Save Area
+UCB, Unit Control Block
+STI, Self Timed Interface
+CHPID, CHannel Path IDentifier, CourseraMainframes, the assoc between the physical port loc and the subsystem
+PCHID, Physical CHannel IDentifier, CourseraMainframes
+CSS, Channel SubSystem
+CKD, Count Key Data
+SCU, Storage Control Unit
+multiple allegiance, access a single drive my multiple systems
+CDC, Control Data Corporation
+IBM, International Bidness Machines (as Craig Kilborn used to say, that's a little jokey joke)
+MAA, Mainframe Annoying Acronyms (coined by yours truly, Hank Igoe)
+PU, Processing Unit
+IFL, Integrated Facility for Linux
+ICF, Integrated Coupling Facility
+OLTP, OnLine Transaction (in either sense, atomicity or economic exchange) Processing
 runbook, a compilation of routine procedures and operations that the sysadm/operator carries out.
 TPF, Transaction Processing Facility (originally ACP Airline Control Program)
 CKD, Count Key Data
@@ -40,11 +184,11 @@ RPG, Report Program Generator (from IBM)
 AIX, Advanced Interactive eXecutive (IBM OS based on UNIX)
 SOAP, Simple Object Access Protocol
 MFaaS, MainFrame as a Service
-SDSF, System Display and Search Facility (or Spools Search and Displays Facility)
+SDSF, System Display and Search Facility (or Spools Search and Displays Facility), CourseraMainframes
 BRMS, Business Rules Management System (or Software)
 ABAP, Advanced Business Application Programming
 ERP, Enterprise Resource Planning
-SAP, Systems Applications and Products (in Data Processin). Name of the software and the company.
+SAP, Systems Applications and Products (in Data Processing). Name of the software and the company.
 ADCD, Application Development CD (for members of IBM PartnerWorld Devs)
 ESCON, Enterprise Systems CONnection (IBM data connection for mainframe channels)
 BCP, Base Control Program (in essence MVS)
@@ -54,8 +198,6 @@ ALM, Application Lifecycle Management
 PTF, Program Temporary Fix
 APAR, Authorized Program Analysis Report
 SPOOL, Simultaneous Peripheral Operations OnLine
-LPAR, Logical PARtition
-CPC, Central Processor Complex (houses the CPUs)
 
 However encyclopedic the knowledge of a COBOL cowboy who comes <galloping in on his stallion /strikethrough> hobbling in with his walker, it won't be enough. 
 
